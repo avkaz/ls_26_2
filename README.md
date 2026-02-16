@@ -12,11 +12,11 @@ Věřím, že **klasický ML přístup je pro tento problém dostačující** a 
 
 Projekt je strukturován s důrazem na přehlednost a znovupoužitelnost kódu:
 
-├── experiment.ipynb
-├── utility.py
-├── raw_data/
-├── mlruns/
-└── README.md
+── experiment.ipynb
+── utility.py
+── raw_data/
+── mlruns/
+── README.md
 
 
 ### `experiment.ipynb`
