@@ -1,0 +1,2 @@
+split,accuracy,balanced_accuracy,f1_weighted
+val,0.8755555555555555,0.708888888888889,0.8657564603941416

@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+
+# artifacts
+.artifacts
+ 
+# raw data
+ .raw_data
