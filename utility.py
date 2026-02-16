@@ -371,7 +371,7 @@ def run_mlflow_validation_only(
     with mlflow.start_run(run_name=run_name) as run:
         mlflow.log_params(params)
 
-        # --- predict (NO training here)
+        # --- predict
         y_pred_val = model.predict(X_val)
 
         # --- metrics
